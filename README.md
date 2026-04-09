@@ -14,7 +14,7 @@ Projeto em Python que monitora preços de produt**New!Click to edit**os da Amazo
 * Python
 * Selenium
 
-## Como usar
+## ▶Como usar
 
 1. Instale dependências:
 
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 3. Execute:
 
 ```bash
-python src/bot.py
+python -m src.bot
 ```
 
 ## Saída
@@ -42,4 +42,3 @@ Projeto para demonstrar automação e web scraping com Python.
 ---
 
 Feito por F
-
